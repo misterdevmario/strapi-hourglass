@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "bars",
+  "info": {
+    "singularName": "bar",
+    "pluralName": "bars",
+    "displayName": "Bar",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "hours": {
+      "type": "string"
+    },
+    "barImg": {
+      "type": "string"
+    }
+  }
+}

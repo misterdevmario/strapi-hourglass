@@ -1,0 +1,40 @@
+{
+  "kind": "collectionType",
+  "collectionName": "activities",
+  "info": {
+    "singularName": "activitie",
+    "pluralName": "activities",
+    "displayName": "activity",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "activitieEs": {
+      "type": "string",
+      "required": false
+    },
+    "spotEn": {
+      "type": "string",
+      "required": false
+    },
+    "spotEs": {
+      "type": "string",
+      "required": false
+    },
+    "activitieEn": {
+      "type": "string",
+      "required": false
+    },
+    "activitieImage": {
+      "type": "string",
+      "required": false
+    },
+    "hours": {
+      "type": "string",
+      "required": false
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "kind": "collectionType",
+  "collectionName": "breakfasts",
+  "info": {
+    "singularName": "breakfast",
+    "pluralName": "breakfasts",
+    "displayName": "Breakfast",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "typeEn": {
+      "type": "string"
+    },
+    "serviceEn": {
+      "type": "string"
+    },
+    "hours": {
+      "type": "string"
+    },
+    "membersEn": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "breakfastImg": {
+      "type": "string"
+    },
+    "typeEs": {
+      "type": "string"
+    },
+    "serviceEs": {
+      "type": "string"
+    },
+    "membersEs": {
+      "type": "string"
+    }
+  }
+}
