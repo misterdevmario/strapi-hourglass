@@ -29,6 +29,12 @@
     },
     "hours": {
       "type": "string"
+    },
+    "titleEn": {
+      "type": "string"
+    },
+    "titleEs": {
+      "type": "string"
     }
   }
 }
