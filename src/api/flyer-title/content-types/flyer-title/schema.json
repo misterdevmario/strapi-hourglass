@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "flyer_titles",
+  "info": {
+    "singularName": "flyer-title",
+    "pluralName": "flyer-titles",
+    "displayName": "FlyerTitle"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "flyertitle": {
+      "type": "string"
+    }
+  }
+}
